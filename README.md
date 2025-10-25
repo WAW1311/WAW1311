@@ -18,7 +18,7 @@ Hi, I’m an Informatics student with a strong interest in Web and Mobile develo
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=WAW1311&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 🏆 Badges Collections
+### 🏆 Badge Collections
 [![An image of @waw1311's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/waw1311)](https://holopin.io/@waw1311)
 
 ---
